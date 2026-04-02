@@ -23,11 +23,17 @@ The goal is to practice the full assembly pipeline end-to-end and learn how to i
   - amino acid to RNA conversion task with tests
   - completed lab report (`lab2/sprawozdanie_lab2_draft.md`)
   - selected lightweight outputs (GFF, BLAST query/results, summaries)
+- `lab3/` - complete Lab 3 materials (human resequencing):
+  - mapping + variant calling outputs (BAM/VCF and summaries)
+  - variant annotation summary for IQGAP3 region
+  - implementation task script: variants-per-gene from refFlat + VCF
+  - completed lab report (`lab3/sprawozdanie_lab3_draft.md`)
 
 ## Quick Start
 Detailed run instructions and parameters are available in:
 - `lab1/README.md`
 - `lab2/README.md`
+- `lab3/README.md`
 
 ## Notes
 The repository stores lightweight artifacts (source code and text reports).

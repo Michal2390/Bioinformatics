@@ -22,3 +22,12 @@ lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.mRNA_transcripts.fa.gz
 lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.protein.fa
 lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.protein.fa.gz
 
+# Lab3 generated and heavy files
+lab3/tmp/
+lab3/input/chr1.fa
+lab3/input/chr1.fa.gz
+lab3/input/coriell_chr1.fq
+lab3/input/coriell_chr1.fq.gz
+lab3/output/*.sam
+lab3/output/*.bcf
+
