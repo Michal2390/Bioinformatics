@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+# Heavy generated data
+lab1/input/
+lab1/tmp/
+lab1/output/*.fq
+lab1/output/*.fa
+lab1/output/*.info
+lab1/output/*.distr
+# Local-only report
+lab1/sprawozdanie_lab1_wspolne_local.md
