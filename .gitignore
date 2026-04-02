@@ -11,3 +11,14 @@ lab1/output/*.info
 lab1/output/*.distr
 # Local-only report
 lab1/sprawozdanie_lab1_wspolne_local.md
+
+# Lab2 generated and large files
+lab2/tmp/
+lab2/output/single_scaffold.fa.maker.output/
+lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.genomic.fa
+lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.genomic.fa.gz
+lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.mRNA_transcripts.fa
+lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.mRNA_transcripts.fa.gz
+lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.protein.fa
+lab2/input/hymenolepis_diminuta.PRJEB507.WBPS10.protein.fa.gz
+
