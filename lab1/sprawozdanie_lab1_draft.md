@@ -1,4 +1,4 @@
-# Sprawozdanie MBI Lab 1 (wersja robocza)
+# Sprawozdanie MBI Lab 1
 
 ## Dane wejściowe
 - Numer albumu: `307340`
