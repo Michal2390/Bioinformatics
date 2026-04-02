@@ -1,6 +1,6 @@
-# De Novo DNA Assembly
+# Bioinformatics
 
-This repository contains coursework materials for the MBI laboratory on de novo DNA assembly.
+This repository contains coursework materials for the MBI (Metody Bioinformatyki) laboratory.
 
 ## What This Project Is
 
