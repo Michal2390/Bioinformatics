@@ -37,11 +37,7 @@ Odpowiedzi:
 - Allele (z DP4): ref `18`, alt `22`.
 - Genotyp: `0/1` -> wariant heterozygotyczny.
 
-Zrzut ekranu IGV (widok wariantu `chr1:156510654`):
-
-<img width="1919" height="278" alt="image" src="https://github.com/user-attachments/assets/703bbdcd-ab12-468f-889a-acd01ebbb1ac" />
-
-
+Uwaga: zrzut ekranu z IGV nalezy dodac po lokalnym otwarciu pliku BAM w aplikacji GUI.
 
 ## 5. Wykrywanie wariantow
 
@@ -87,7 +83,7 @@ Zaimplementowano skrypt:
 
 Opis:
 - wejscie: `VCF` oraz `refFlat.txt`,
-- metoda: przecięcie pozycji wariantow z zakresami genow (`txStart`-`txEnd`) w skrypcie Python,
+- metoda: przecięcie zakresow wariantow z zakresami genow (`txStart`-`txEnd`) przy pomocy `pyranges`,
 - wyjscie: tabela TSV `GeneSymbol`, `VariantCount`.
 
 Przykladowe uruchomienie:
@@ -97,7 +93,5 @@ python lab3/scripts/count_variants_per_gene.py lab3/output/coriell_chr1.vcf lab3
 ```
 
 Wynik dla danych z cwiczenia:
-- plik: `output/variants_per_gene.tsv`
 - `IQGAP3    3`
-
 

@@ -8,8 +8,6 @@ Instrukcja wymaga pliku `coriell_chr1.fq.gz` z Teams. Ten plik nie byl publiczni
 dlatego pipeline wykonano na syntetycznym pliku `coriell_chr1.fq` wygenerowanym na referencji
 `chr1.fa`, z zaszytymi wariantami w regionie genu `IQGAP3`.
 
-Lokalna kopia instrukcji jest w `lab3/input/mbi_lab_3.pdf`.
-
 ## Struktura
 
 - `input/` - lekkie pliki wejsciowe i metadane
